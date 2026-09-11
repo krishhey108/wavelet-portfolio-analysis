@@ -284,7 +284,7 @@ The associated project presentation is titled:
 The presentation discusses wavelet decomposition, ARIMA-GARCH forecasting,
 mean-variance portfolio construction, and portfolio backtesting results.
 
-[View the project presentation](results/Wavelet Project Final Presentation.pdf)
+[View the project presentation](results/Wavelet-Project-Final-Presentation.pdf)
 
 ## Citation
 
