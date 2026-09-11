@@ -284,6 +284,8 @@ The associated project presentation is titled:
 The presentation discusses wavelet decomposition, ARIMA-GARCH forecasting,
 mean-variance portfolio construction, and portfolio backtesting results.
 
+[View the project presentation](results/Wavelet-Project-Final-Presentation.pdf)
+
 ## Citation
 
 If you use this project, please cite the associated presentation or paper:
@@ -291,7 +293,7 @@ If you use this project, please cite the associated presentation or paper:
 ```bibtex
 @misc{wavelet_arima_garch_portfolios,
   title        = {Wavelet ARIMA-GARCH and Long-Trend Portfolios},
-  author       = {[Add author names]},
+  author       = {Krishhey Thacker},
   year         = {[Add year]},
   note         = {BQT Project Presentation}
 }
@@ -307,4 +309,4 @@ or a guarantee of future investment performance.
 
 ## Author
 
-[Your name]
+Krishhey Thacker
