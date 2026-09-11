@@ -294,7 +294,7 @@ If you use this project, please cite the associated presentation or paper:
 @misc{wavelet_arima_garch_portfolios,
   title        = {Wavelet ARIMA-GARCH and Long-Trend Portfolios},
   author       = {Krishhey Thacker},
-  year         = {[Add year]},
+  year         = {2026},
   note         = {BQT Project Presentation}
 }
 ```
